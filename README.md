@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DSP2092
-- 👀 I’m interested in KJIT
+- 👀 I’m learning in KJIT
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on Open source Projects.
 
